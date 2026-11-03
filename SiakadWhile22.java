@@ -20,6 +20,7 @@ public class SiakadWhile22 {
 
             if (grade > 80) {
                 System.out.println("The grade of student " + (i + 1) + " is A");
+                System.out.println("Good, keep the grade!");
             } else if (grade > 73) {
                 System.out.println("The grade of student " + (i + 1) + " is B+");
             } else if (grade > 65) {
